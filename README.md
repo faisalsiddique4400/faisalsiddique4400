@@ -2,12 +2,12 @@
 
 ### Senior Full Stack Engineer · 6+ Years · Next.js · React · Node.js · NestJS · Python · TypeScript
 
-I build **modern, production-grade, AI-powered web applications** end-to-end — marketplaces, fintech platforms, real estate analytics, and SaaS products used by real businesses.
+I build **end-to-end, modern, production-grade, AI-powered web applications**, from marketplaces and fintech platforms to real estate analytics tools and SaaS products used by real businesses.
 
-📍 Based in **Lahore, Pakistan** — open to **remote contract and full-time** roles worldwide.
+📍 Based in **Lahore, Pakistan**, open to **remote contract and full-time** roles worldwide.
 
-🌐 **Portfolio:** [faisal-siddique-seven.vercel.app](https://faisal-siddique-seven.vercel.app)
-💼 **Hire me on Upwork:** [Faisal Siddique — Top-Rated Plus Full Stack Developer](https://www.upwork.com/freelancers/~01fdd7e953494a7574)
+🌐 **Portfolio:** [faisal-siddique-seven.vercel.app](https://faisal-siddique-seven.vercel.app)  
+💼 **Hire me on Upwork:** [Faisal Siddique — Top-Rated Plus Full Stack Developer](https://www.upwork.com/freelancers/~01fdd7e953494a7574)  
 ✉️ **Email:** faisal.walqalum@gmail.com
 
 ---
