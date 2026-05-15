@@ -7,7 +7,7 @@ I build **modern, production-grade, AI-powered web applications** end-to-end —
 📍 Based in **Lahore, Pakistan** — open to **remote contract and full-time** roles worldwide.
 
 🌐 **Portfolio:** [faisal-siddique-seven.vercel.app](https://faisal-siddique-seven.vercel.app)
-💼 **Hire me on Upwork:** [Faisal Siddique — Top-Rated Full Stack Developer](https://www.upwork.com/freelancers/~01fdd7e953494a7574)
+💼 **Hire me on Upwork:** [Faisal Siddique — Top-Rated Plus Full Stack Developer](https://www.upwork.com/freelancers/~01fdd7e953494a7574)
 ✉️ **Email:** faisal.walqalum@gmail.com
 
 ---
@@ -16,10 +16,10 @@ I build **modern, production-grade, AI-powered web applications** end-to-end —
 
 **Senior full-stack engineer** with **6+ years** of experience shipping scalable, user-friendly web applications. I work end-to-end across frontend, backend, infrastructure, and AI integrations.
 
-- **Backend:** Node.js, NestJS, Express.js, **Python**, RESTful APIs, GraphQL, Microservices, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ
+- **Backend:** Node.js, NestJS, Express.js, Python, RESTful APIs, GraphQL, Microservices, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ
 - **Frontend:** React.js, Next.js, Vue.js, Angular, Redux Toolkit, TanStack Query, TypeScript, Material UI, Tailwind CSS, Chakra UI, responsive design, Progressive Web Apps (PWAs)
 - **DevOps & Cloud:** Docker, AWS (EC2, S3, RDS, Lightsail), GCP, Azure, NGINX, Bash, CI/CD pipelines (GitHub Actions, CircleCI)
-- **AI & Integrations:** OpenAI / LLM workflows, AI scoring engines, semantic search, agent integrations, serverless architectures
+- **AI & Integrations:** OpenAI & Anthropic ecosystems, Claude Code workflows, AI agent integrations, semantic search, RAG architectures, AI scoring engines, serverless AI systems
 
 ## 💡 My Philosophy
 
@@ -27,7 +27,7 @@ I believe in **clean code, thoughtful design, and real-world impact through tech
 
 ## 🛠 What I'm Currently Working On
 
-- Shipping **AI-augmented SaaS products** across **commercial real estate, fintech, and contract management** — Next.js front-ends paired with NestJS and Node.js back-ends.
+- Shipping **AI-augmented SaaS products** across **multiple industries**, Next.js front-ends paired with NestJS and Node.js back-ends.
 - Building **AI-powered features** (LLM workflows, scoring engines, document automation) into production apps where they earn their keep.
 - Experimenting with **serverless architectures, edge functions, and AI agents**.
 
