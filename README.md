@@ -1,6 +1,6 @@
 # Hi, I'm Faisal Siddique 👋
 
-### Senior Full Stack Engineer · 6+ Years · Next.js · React · Node.js · NestJS · Python · TypeScript
+### Senior Full Stack Engineer · Next.js · React · Node.js · NestJS · Python · TypeScript
 
 I build **end-to-end, modern, production-grade, AI-powered web applications**, from marketplaces and fintech platforms to real estate analytics tools and SaaS products used by real businesses.
 
