@@ -7,7 +7,7 @@ I build **end-to-end, modern, production-grade, AI-powered web applications**, f
 📍 **Lahore, Pakistan**, open to **remote contracts and full-time** roles worldwide. 🌐
 
 🌐 **Website:** [faisal-siddique-seven.vercel.app](https://faisal-siddique-seven.vercel.app)  
-💼 **Upwork:** Top Rated Plus · 100% JSS
+💼 **Upwork:** Top Rated Plus · 100% JSS  
 ✉️ **Email:** faisal.walqalum@gmail.com
 
 ---
