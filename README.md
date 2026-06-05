@@ -4,7 +4,7 @@
 
 I build **end-to-end, modern, production-grade, AI-powered web applications**, from fintech marketplaces and real estate analytics platforms to SaaS products used by real businesses at scale.
 
-📍 **Lahore, Pakistan**, open to **remote contracts and full-time** roles worldwide. 🌐
+📍 **Lahore, Pakistan**, open to **remote contracts and full-time** roles worldwide.
 
 🌐 **Website:** [faisal-siddique-seven.vercel.app](https://faisal-siddique-seven.vercel.app)  
 💼 **Upwork:** Top Rated Plus · 100% JSS  
@@ -35,7 +35,7 @@ Good software is not clever. It is clear, maintainable, and built for the second
 
 ## 📫 Let's Connect
 
-- **Hire me on Upwork:** [upwork.com/freelancers/aifullstackexpert](https://www.upwork.com/freelancers/sifullstackexpert)
+- **Hire me on Upwork:** [upwork.com/freelancers/aifullstackexpert](https://www.upwork.com/freelancers/aifullstackexpert)
 - **Email:** faisal.walqalum@gmail.com
 
 ---
