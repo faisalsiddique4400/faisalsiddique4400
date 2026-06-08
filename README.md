@@ -36,7 +36,6 @@ Good software is not clever. It is clear, maintainable, and built for the second
 ## 📫 Let's Connect
 
 - **Hire me on Upwork:** [upwork.com/freelancers/aifullstackexpert](https://www.upwork.com/freelancers/aifullstackexpert)
-- **Email:** faisal.walqalum@gmail.com
 
 ---
 
